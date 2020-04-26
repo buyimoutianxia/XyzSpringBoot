@@ -2,3 +2,8 @@ myconfig:
   name: configByValue
   id: 100
   desc: myDescByProperty
+
+
+spring:
+  profiles:
+    active: prod
